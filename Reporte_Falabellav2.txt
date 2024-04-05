@@ -1,0 +1,7 @@
+--Reporte de Inventarios de Falabella
+<Ini>
+1.- Recopilación de Inventarios en:("Lima","Trujillo","Arequipa")
+2.- Filtra productos por categorías= ("Más vendidos", "Menos vendidos")
+3.- Ordenar las bases de datos
+4.- Mostrar reporte a los gerentes
+<Fin>
